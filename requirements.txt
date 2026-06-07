@@ -1,0 +1,5 @@
+pandas
+numpy
+scikit-learn
+tensorflow # If using Keras with TensorFlow backend
+streamlit
