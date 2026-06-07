@@ -1,5 +1,5 @@
-pandas
-numpy
-scikit-learn
-tensorflow # If using Keras with TensorFlow backend
 streamlit
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+tensorflow==2.15.0
